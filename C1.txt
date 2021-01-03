@@ -7,3 +7,6 @@ w
 w
 w
 
+tipo
+throw
+away
