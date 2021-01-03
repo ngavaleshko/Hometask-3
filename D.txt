@@ -1,2 +1,7 @@
+D file with text
+several row
+s
+sss
+ssss
 D file with text // / / / /
  system out print lun

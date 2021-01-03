@@ -1,7 +1,8 @@
-
+class Gohome{
 
 class Gohome Jone{
 public static void Print(String[] args){
+system.out
 System.out.println("Go Home");
 }
 }
