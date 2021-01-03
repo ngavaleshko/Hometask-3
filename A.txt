@@ -1,0 +1,5 @@
+class Gohome{
+public static void Print(String[] args){
+System.out.println("Go Home");
+}
+}
