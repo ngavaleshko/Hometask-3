@@ -1,2 +1,2 @@
-D file with text
-
+D file with text // / / / /
+ system out print lun

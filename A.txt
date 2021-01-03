@@ -1,5 +1,11 @@
-class Gohome{
+
+
+class Gohome Jone{
 public static void Print(String[] args){
 System.out.println("Go Home");
 }
 }
+
+go
+go
+go
